@@ -1,0 +1,49 @@
+{
+  "categories": [
+    {
+      "_id": 1,
+      "name": "Books",
+      "display_name": "Books",
+      "description": "these are books"
+    },
+    {
+      "name": "Food",
+      "display_name": "Food",
+      "description": "Put test",
+      "id": "2"
+    },
+    {
+      "category": "Movies",
+      "name": "Movies",
+      "display_name": "Movies",
+      "description": "Movies!",
+      "id": "3"
+    }
+  ],
+  "products": [
+    {
+      "category": "Books",
+      "name": "It",
+      "display_name": "PUT TEST",
+      "description": "This is a book",
+      "id": "3"
+    },
+    {
+      "category": "Movies",
+      "name": "John Wick",
+      "display_name": "Movies",
+      "description": "Movies!",
+      "id": "1"
+    },
+    {
+      "category": "Food",
+      "name": "Ramen",
+      "display_name": "Ramen",
+      "description": "yummmmmmm",
+      "id": "2"
+    },
+    {
+      "id": "IMQVw49"
+    }
+  ]
+}
